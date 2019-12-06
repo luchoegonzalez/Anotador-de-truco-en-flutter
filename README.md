@@ -1,4 +1,4 @@
 # Anotador de truco
 
 Aplicacion hecha con flutter y dart para android y IOS.
-![Preview Image](anotador-preview.jpeg =200x)
+![Preview Image](anotador-preview.jpeg){:height="200px"}
